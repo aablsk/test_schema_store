@@ -3859,7 +3859,6 @@
       "name": "skaffold.yaml",
       "description": "Schema for the skaffold.yaml configuration file for Skaffold (https://skaffold.dev/)",
       "fileMatch": ["skaffold.yaml", "skaffold.yml"],
-      "url": "https://raw.githubusercontent.com/GoogleContainerTools/skaffold/main/docs-v2/content/en/schemas/v3.json",
       "versions": {
         "v1alpha1": "https://raw.githubusercontent.com/GoogleContainerTools/skaffold/master/docs/content/en/schemas/v1alpha1.json",
         "v1alpha2": "https://raw.githubusercontent.com/GoogleContainerTools/skaffold/master/docs/content/en/schemas/v1alpha2.json",
